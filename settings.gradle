@@ -1,0 +1,3 @@
+include ':coreLib'
+include ':app'
+rootProject.name = "ProjectDemo"
